@@ -1,1 +1,11 @@
-
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.azure/
+*.log
+last_job_name.txt
+outputs/
+mlruns/
+.DS_Store
